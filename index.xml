@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Baguettes</title>
+    <link>/</link>
+    <description>Recent content on The Baguettes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UT</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UT</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-baguettes:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;The Baguettes&lt;/h2&gt;
+
+&lt;p&gt;We are a team of 4 &lt;a href=&#34;http://www.epita.fr/&#34;&gt;EPITA&lt;/a&gt; students.
+We share an interest in programming and games. We are all looking forward to gaining experience from this project.
+We believe that creating a game is a good way to learn to work as a team.&lt;/p&gt;
+
+&lt;p&gt;We call ourselves &lt;em&gt;The Baguettes&lt;/em&gt;, inspired by rock and roll bands with names which have little meaning.
+Baguette comes from the fact that our group is made of two Chinese, and two French people. Referencing chopsticks and the French bread.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TFBS</title>
+      <link>/TFBS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UT</pubDate>
+      
+      <guid>/TFBS/</guid>
+      <description>
+
+&lt;h2 id=&#34;backstory:6728efeeb1c7903cefe74ff5d5719f95&#34;&gt;Backstory&lt;/h2&gt;
+
+&lt;p&gt;Agent 42, an ex secret service field agent, has money problems. He owes a couple million
+dollars to a crime lord, who doesn’t want to wait for his money any longer. Agent 42 has to use
+the skills he acquired while working as a secret agent. Unfortunately, he can’t find a way to use
+these and stay law-abiding.
+He is thus forced to become a henchman, providing his services to multiple mafias.&lt;/p&gt;
+
+&lt;h2 id=&#34;download:6728efeeb1c7903cefe74ff5d5719f95&#34;&gt;Download&lt;/h2&gt;
+
+&lt;p&gt;You can download &lt;strong&gt;TFBS&lt;/strong&gt; on &lt;a href=&#34;https://github.com/The-Baguettes/TFBS/releases&#34; target=&#34;_blank&#34;&gt;github.com/The-Baguettes/TFBS/releases&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UT</pubDate>
+      
+      <guid>/download/</guid>
+      <description>
+
+&lt;h2 id=&#34;tfbs:147ca6d03f222fe2ead83908bb3bcedf&#34;&gt;TFBS&lt;/h2&gt;
+
+&lt;p&gt;You can download &lt;strong&gt;TFBS&lt;/strong&gt; on &lt;a href=&#34;https://github.com/The-Baguettes/TFBS/releases&#34; target=&#34;_blank&#34;&gt;github.com/The-Baguettes/TFBS/releases&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
