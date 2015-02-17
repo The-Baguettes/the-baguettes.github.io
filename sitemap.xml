@@ -2,23 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>http://the-baguettes.github.io/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://the-baguettes.github.io/about/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/TFBS/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/download/</loc>
+    <loc>http://the-baguettes.github.io/TFBS/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
