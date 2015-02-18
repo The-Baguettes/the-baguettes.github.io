@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Baguettes</title>
+    <link>http://the-baguettes.github.io/post/</link>
+    <description>Recent content in Posts on The Baguettes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    
+    <lastBuildDate>Wed, 18 Feb 2015 14:34:13 CET</lastBuildDate>
+    <atom:link href="http://the-baguettes.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://the-baguettes.github.io/2015/02/hello-world</link>
+      <pubDate>Wed, 18 Feb 2015 14:34:13 CET</pubDate>
+      
+      <guid>http://the-baguettes.github.io/2015/02/hello-world</guid>
+      <description>&lt;p&gt;Hello, from &lt;a href=&#34;http://the-baguettes.github.io&#34;&gt;the-baguettes.github.io&lt;/a&gt;.&lt;br /&gt;
+This is &lt;em&gt;The Baguettes&lt;/em&gt; homepage and blog.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
