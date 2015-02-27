@@ -6,27 +6,43 @@
     <description>Recent content on The Baguettes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    
-    
-    <lastBuildDate>Wed, 18 Feb 2015 14:34:13 CET</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2015 14:34:13 +0100</lastBuildDate>
     <atom:link href="http://the-baguettes.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
       <link>http://the-baguettes.github.io/2015/02/hello-world</link>
-      <pubDate>Wed, 18 Feb 2015 14:34:13 CET</pubDate>
+      <pubDate>Wed, 18 Feb 2015 14:34:13 +0100</pubDate>
       
       <guid>http://the-baguettes.github.io/2015/02/hello-world</guid>
       <description>&lt;p&gt;Hello, from &lt;a href=&#34;http://the-baguettes.github.io&#34;&gt;the-baguettes.github.io&lt;/a&gt;.&lt;br /&gt;
-This is &lt;em&gt;The Baguettes&lt;/em&gt; homepage and blog.&lt;/p&gt;
+This is &lt;em&gt;The Baguettes&amp;rsquo;&lt;/em&gt; homepage and blog.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://the-baguettes.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://the-baguettes.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-baguettes:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;The Baguettes&lt;/h2&gt;
+
+&lt;p&gt;We are a team of 4 &lt;a href=&#34;http://www.epita.fr/&#34; target=&#34;_blank&#34;&gt;EPITA&lt;/a&gt; students.
+We share an interest in programming and games. We are all looking forward to gaining experience from this project.
+We believe that creating a game is a good way to learn to work as a team.&lt;/p&gt;
+
+&lt;p&gt;We call ourselves &lt;em&gt;The Baguettes&lt;/em&gt;, inspired by rock and roll bands with names which have little meaning.
+Baguette comes from the fact that our group is made of two Chinese, and two French people. Referencing chopsticks (called &lt;em&gt;baguettes&lt;/em&gt; in french) and the French bread.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TFBS</title>
       <link>http://the-baguettes.github.io/tfbs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UT</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://the-baguettes.github.io/tfbs/</guid>
       <description>
@@ -42,25 +58,6 @@ He is thus forced to become a henchman, providing his services to multiple mafia
 &lt;h2 id=&#34;download:780a37c34bafcc437a40beb6cd02b5a7&#34;&gt;Download&lt;/h2&gt;
 
 &lt;p&gt;You can download &lt;strong&gt;TFBS&lt;/strong&gt; on &lt;a href=&#34;https://github.com/The-Baguettes/TFBS/releases&#34; target=&#34;_blank&#34;&gt;github.com/The-Baguettes/TFBS/releases&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://the-baguettes.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UT</pubDate>
-      
-      <guid>http://the-baguettes.github.io/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;the-baguettes:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;The Baguettes&lt;/h2&gt;
-
-&lt;p&gt;We are a team of 4 &lt;a href=&#34;http://www.epita.fr/&#34;&gt;EPITA&lt;/a&gt; students.
-We share an interest in programming and games. We are all looking forward to gaining experience from this project.
-We believe that creating a game is a good way to learn to work as a team.&lt;/p&gt;
-
-&lt;p&gt;We call ourselves &lt;em&gt;The Baguettes&lt;/em&gt;, inspired by rock and roll bands with names which have little meaning.
-Baguette comes from the fact that our group is made of two Chinese, and two French people. Referencing chopsticks and the French bread.&lt;/p&gt;
 </description>
     </item>
     
